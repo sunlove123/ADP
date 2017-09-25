@@ -30,3 +30,5 @@ mythirdpage.com should only serve 3.html
 ==================
 Note: I never work with teraform and ancible i have knowledge on Chef Automation So attaching the Nginx cookbook in this repo.
 Main advantage of Chef is that most of the cookbook available in chef supermarket we dont need to write for each and everything. We can get it and customize it slightly based on our requirement.
+
+Need some more research on  Configuration details its not completed and attached with this repo.
