@@ -27,7 +27,6 @@ myfirstpage.com should only serve 1.html
 mysecondpage.com should only serve 2.html
 mythirdpage.com should only serve 3.html
  
-please follow best practices, IaC, and leverage testing methodologies/tools wherever possible. commit all your code to a git hub repo and forward the link to us.
 ==================
 Note: I never work with teraform and ancible i have knowledge on Chef Automation So attaching the Nginx cookbook in this repo.
 Main advantage of Chef is that most of the cookbook available in chef supermarket we dont need to write for each and everything. We can get it and customize it slightly based on our requirement.
