@@ -14,7 +14,7 @@ mythirdpage.com 127.0.0.1
  
  
 the nginx should serve 3 html files, reasonably designed , with varying content.
-  - 1.html
+  - 1.htmll
   - 2.html
   - 3.html
  
