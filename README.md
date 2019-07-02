@@ -26,7 +26,7 @@ myfirstpage.com should only serve 1.html
 mysecondpage.com should only serve 2.html
 mythirdpage.com should only serve 3.html
 
-
+######
 Task done: 
 1. Build a vagrantfile
 2. create a docker image
